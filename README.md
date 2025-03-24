@@ -1,4 +1,4 @@
-# AlgaeBranching
+# Algae Branching Mechanisms
 
 Model 1:
 This study begins with the recreation of a basic Turing reaction-diffusion model to generate stripe patterns. This initial model focused on simulating the interaction between two substances—an activator and an inhibitor—where the activator promotes its own growth while the inhibitor suppresses it. The system was governed by reaction and diffusion processes that drive pattern formation.
